@@ -1,0 +1,9 @@
+{
+  "food": ["mcdonalds", "starbucks", "restaurant", "java"],
+  "groceries": ["walmart", "costco", "kroger", "smiths"],
+  "transport": ["uber", "lyft", "shell", "chevron", "maverik", "chevron"],
+  "loans" : ["student"],
+  "recurring" : ["recurring"],
+  "transfers" : ["transfer"],
+  "venmo" : ["venmo"]
+}
